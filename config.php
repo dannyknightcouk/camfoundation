@@ -3,7 +3,7 @@
   'database' => 
   array (
     'driver' => 'mysql',
-    'host' => '',
+    'host' => 'EXAMPLEHOST',
     'database' => '',
     'username' => '',
     'password' => '',
