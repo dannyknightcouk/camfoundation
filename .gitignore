@@ -1,0 +1,7 @@
+config.php
+storage/views/*
+storage/less/*
+assets/*.js
+assets/*.css
+assets/rev-manifest.jsonø
+

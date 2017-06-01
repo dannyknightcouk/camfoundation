@@ -12,7 +12,7 @@
     'prefix' => '',
     'strict' => false,
   ),
-  'url' => 'http://cam-foundation.co.uk',
+  'url' => '',
   'paths' => 
   array (
     'api' => 'api',
