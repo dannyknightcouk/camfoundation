@@ -1,7 +1,8 @@
+dklog.txt
 config.php
-storage/views/*
-storage/less/*
-assets/*.js
-assets/*.css
-assets/rev-manifest.jsonø
+/storage/views/*
+/storage/less/*
+/assets/*.js
+/assets/*.css
+/assets/rev-manifest.jsonø
 
