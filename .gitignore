@@ -5,4 +5,4 @@ config.php
 /assets/*.js
 /assets/*.css
 /assets/rev-manifest.jsonø
-
+.htpasswd
